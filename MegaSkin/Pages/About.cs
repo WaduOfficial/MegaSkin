@@ -24,12 +24,12 @@ namespace MegaSkin.Pages
 
         private void CopyDiscordServer_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://discord.gg/MJp6u4z");
+            Process.Start("https://discord.gg/");
         }
 
         private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://megashops.selly.store/");
+            Process.Start("https://google.com");
         }
 
         private void CopyDiscordCreator_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
