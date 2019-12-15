@@ -79,7 +79,7 @@
             this.CopyDiscordCreator.Size = new System.Drawing.Size(63, 15);
             this.CopyDiscordCreator.TabIndex = 7;
             this.CopyDiscordCreator.TabStop = true;
-            this.CopyDiscordCreator.Text = "Plot#6865";
+            this.CopyDiscordCreator.Text = "asd#owo";
             this.CopyDiscordCreator.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(140)))), ((int)(((byte)(140)))));
             this.CopyDiscordCreator.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CopyDiscordCreator_LinkClicked);
             // 
@@ -125,7 +125,7 @@
             this.CopyDiscordServer.Size = new System.Drawing.Size(152, 15);
             this.CopyDiscordServer.TabIndex = 3;
             this.CopyDiscordServer.TabStop = true;
-            this.CopyDiscordServer.Text = "https://discord.gg/MJp6u4z";
+            this.CopyDiscordServer.Text = "https://discord.gg/";
             this.CopyDiscordServer.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(140)))), ((int)(((byte)(140)))));
             this.CopyDiscordServer.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CopyDiscordServer_LinkClicked);
             // 
@@ -148,7 +148,7 @@
             this.CopyDiscordOwner.Size = new System.Drawing.Size(110, 15);
             this.CopyDiscordOwner.TabIndex = 1;
             this.CopyDiscordOwner.TabStop = true;
-            this.CopyDiscordOwner.Text = "Its_NOT_Me#7525";
+            this.CopyDiscordOwner.Text = "asd#owo";
             this.CopyDiscordOwner.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(140)))), ((int)(((byte)(140)))));
             this.CopyDiscordOwner.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CopyDiscordOwner_LinkClicked);
             // 
